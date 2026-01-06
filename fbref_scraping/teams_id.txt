@@ -1,0 +1,30 @@
+teams;id;team_sched;fbrefname
+Bayern Munich;054efa67;Bayern Munich;Bayern-Munich
+Dortmund;add600ae;Dortmund;Dortmund
+RB Leipzig;acbb6a5b;RB Leipzig;RB-Leipzig
+Leverkusen;c7a9f859;Leverkusen;Leverkusen
+M'Gladbach;32f3ee20;M'gladbach;MonchenGladbach
+Wolfsburg;4eaa11d7;Wolfsburg;Wolfsburg
+Eint Frankfurt;f0ac8ee6;Ein Frankfurt;Eintracht-Frankfurt
+Werder Bremen;62add3bf;Werder Bremen;Werder-Bremen
+Hoffenheim;033ea6b8;Hoffenheim;Hoffenheim
+Düsseldorf;b1278397;Fortuna Dusseldorf;Düsseldorf
+Hertha BSC;2818f8bc;Hertha;Hertha-BSC
+Mainz 05;a224b06a;Mainz;Mainz-05
+Freiburg;a486e511;Freiburg;Freiburg
+Schalke 04;c539e393;Schalke 04;Schalke-04
+Augsburg;0cdc4311;Augsburg;Augsburg
+Stuttgart;598bc722;Stuttgart;Stuttgart
+Hannover 96;60b5e41f;Hannover;Hannover-96
+Nürnberg;6f2c108c;Nurnberg;Nürnberg
+Union Berlin;7a41008f;Union Berlin;Union-Berlin
+Köln;bc357bf7;FC Koln;Koln
+Paderborn 07;d9f93f02;Paderborn;Paderborn-07
+Arminia;247c4b67;Bielefeld;Arminia
+Bochum;b42c6323;Bochum;Bochum
+Greuther Fürth;12192a4c;Greuther Furth;Greuther-Fürth
+Darmstadt 98;6a6967fc;Darmstadt-98;Darmstadt-98
+Heidenheim;18d9d2a7;Heidenheim;Heidenheim
+St-Pauli;54864664;St-Pauli;St-Pauli
+Holstein-Kiel;2ac661d9;Holstein-Kiel;Holstein-Kiel
+Hamburger-SV;26790c6a;Hamburger-SV;Hamburger-SV
