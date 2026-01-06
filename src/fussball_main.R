@@ -1,0 +1,7 @@
+setwd("/home/pascal/fussballvorhersage")
+getwd()
+source("src/fussball_data_raw_loader.R")
+source("src/fussball_data_prep_loader_xg.R")
+source("src/fussball_model_selection_xg.R")
+source("src/fussball_model_selection_goals.R")
+source("src/fussball_predict.R")
